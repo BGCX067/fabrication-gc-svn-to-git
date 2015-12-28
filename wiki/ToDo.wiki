@@ -1,0 +1,7 @@
+#Things we need to do
+
+commit example files to source tree
+Post documentation to wiki
+  - list of update methods with descriptions
+  - description of techniques used in the feature
+  - photographs from the many built projects which have employed this feature
